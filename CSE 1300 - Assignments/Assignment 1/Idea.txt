@@ -1,0 +1,1 @@
+make the entire page act like the "i'm blue" meme but change the colour depending on the url
