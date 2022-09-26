@@ -1,0 +1,15 @@
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\bin\Debug\net6.0\HomeworkFromGuy.exe
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\bin\Debug\net6.0\HomeworkFromGuy.deps.json
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\bin\Debug\net6.0\HomeworkFromGuy.runtimeconfig.json
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\bin\Debug\net6.0\HomeworkFromGuy.dll
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\bin\Debug\net6.0\HomeworkFromGuy.pdb
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.csproj.AssemblyReference.cache
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.AssemblyInfoInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.AssemblyInfo.cs
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.csproj.CoreCompileInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.dll
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\refint\HomeworkFromGuy.dll
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.pdb
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\HomeworkFromGuy.genruntimeconfig.cache
+C:\Users\Wannes\Desktop\JokNavi\Python\HomeworkFromGuy\CSE 1321L - Labs and Assignments\obj\Debug\net6.0\ref\HomeworkFromGuy.dll
