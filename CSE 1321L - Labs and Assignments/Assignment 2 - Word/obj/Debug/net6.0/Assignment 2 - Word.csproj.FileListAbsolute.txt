@@ -1,0 +1,15 @@
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\bin\Debug\net6.0\Assignment 2 - Word.exe
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\bin\Debug\net6.0\Assignment 2 - Word.deps.json
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\bin\Debug\net6.0\Assignment 2 - Word.runtimeconfig.json
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\bin\Debug\net6.0\Assignment 2 - Word.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\bin\Debug\net6.0\Assignment 2 - Word.pdb
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.csproj.AssemblyReference.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.AssemblyInfoInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.AssemblyInfo.cs
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.csproj.CoreCompileInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\refint\Assignment 2 - Word.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.pdb
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\Assignment 2 - Word.genruntimeconfig.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 2 - Word\obj\Debug\net6.0\ref\Assignment 2 - Word.dll
