@@ -21,7 +21,7 @@
             Console.WriteLine(" 2- Square the number");
             Console.WriteLine(" 3- Cube the number");
             Console.WriteLine(" 4- Exit the program");
-            int choice = int.Parse(Console.ReadLine() ?? "5");
+            int choice = int.Parse(Console.ReadLine() ?? "5"); //i know you haven't learned null coalescing operator yet, but the possible null alert was bothering me.
             if (choice >= -1 && choice <= 4) return choice;
             Console.WriteLine("Invalid choice entered. Please select a choice from -1 to 4\n");
         }
@@ -47,7 +47,7 @@
         }
     }
 }
-class Lab4C
+class Assignment4B
 {
     static public void Main(String[] args)
     {
