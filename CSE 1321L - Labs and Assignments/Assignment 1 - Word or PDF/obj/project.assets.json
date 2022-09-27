@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\HomeworkFromGuy.csproj",
+      "projectUniqueName": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\Assignment 1 - Word or PDF\\HomeworkFromGuy.csproj",
       "projectName": "HomeworkFromGuy",
-      "projectPath": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\HomeworkFromGuy.csproj",
+      "projectPath": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\Assignment 1 - Word or PDF\\HomeworkFromGuy.csproj",
       "packagesPath": "C:\\Users\\Wannes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\obj\\",
+      "outputPath": "C:\\Users\\Wannes\\Desktop\\JokNavi\\Python\\HomeworkFromGuy\\CSE 1321L - Labs and Assignments\\Assignment 1 - Word or PDF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wannes\\AppData\\Roaming\\NuGet\\NuGet.Config",

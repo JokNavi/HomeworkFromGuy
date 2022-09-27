@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/CSE 1321L - Labs and Assignments/HomeworkFromGuy.csproj",
+                "${workspaceFolder}/CSE 1321L - Labs and Assignments/Assignment 1 - Word or PDF/HomeworkFromGuy.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/CSE 1321L - Labs and Assignments/HomeworkFromGuy.csproj",
+                "${workspaceFolder}/CSE 1321L - Labs and Assignments/Assignment 1 - Word or PDF/HomeworkFromGuy.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/CSE 1321L - Labs and Assignments/HomeworkFromGuy.csproj"
+                "${workspaceFolder}/CSE 1321L - Labs and Assignments/Assignment 1 - Word or PDF/HomeworkFromGuy.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

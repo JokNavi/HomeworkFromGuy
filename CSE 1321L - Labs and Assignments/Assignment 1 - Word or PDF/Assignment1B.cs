@@ -2,7 +2,7 @@ namespace HelloWorld
 {
   class FinalGrades
   {
-    static void Main(string[] args)
+    /*static void Main(string[] args)
     {
         float labsAverage = 100f;
         float assignmentsAverage = 100f;
@@ -31,6 +31,6 @@ namespace HelloWorld
         Console.WriteLine($"midterms: {midtermsOutput}%");
         Console.WriteLine($"final exam: {finalExamOutput}%");
         Console.WriteLine($"Your final grade in CSE 1321L is {(labsOutput+assignmentsOutput+midtermsOutput+finalExamOutput)/4}%");
-    }
+    }*/
   }
 }

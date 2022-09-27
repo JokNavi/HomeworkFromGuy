@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/CSE 1321L - Labs and Assignments/bin/Debug/net6.0/HomeworkFromGuy.dll",
+            "program": "${workspaceFolder}/CSE 1321L - Labs and Assignments/Assignment 1 - Word or PDF/bin/Debug/net6.0/HomeworkFromGuy.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CSE 1321L - Labs and Assignments",
+            "cwd": "${workspaceFolder}/CSE 1321L - Labs and Assignments/Assignment 1 - Word or PDF",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false
