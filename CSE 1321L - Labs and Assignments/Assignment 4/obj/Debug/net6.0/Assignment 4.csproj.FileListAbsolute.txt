@@ -1,0 +1,15 @@
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\bin\Debug\net6.0\Assignment 4.exe
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\bin\Debug\net6.0\Assignment 4.deps.json
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\bin\Debug\net6.0\Assignment 4.runtimeconfig.json
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\bin\Debug\net6.0\Assignment 4.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\bin\Debug\net6.0\Assignment 4.pdb
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.csproj.AssemblyReference.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.AssemblyInfoInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.AssemblyInfo.cs
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\refint\Assignment 4.dll
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.pdb
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\Assignment 4.genruntimeconfig.cache
+C:\Users\Wannes\Desktop\JokNavi\Code CS\HomeworkFromGuy\CSE 1321L - Labs and Assignments\Assignment 4\obj\Debug\net6.0\ref\Assignment 4.dll
