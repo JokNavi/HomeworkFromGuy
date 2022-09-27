@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Text;
 
-namespace HelloWorld
+namespace AssignmentOne
 {
   class ScreenSize
   {
     /*static void Main(string[] args)
     {
-      Console.WriteLine("Hello and welcome to Paper Transfer\u00A9");
-      Console.WriteLine("Enter your print resolution:");
-      float resolution = float.Parse(Console.ReadLine());
-      Console.WriteLine("Enter the Width (in pixels):");
-      float width = float.Parse(Console.ReadLine());
-      Console.WriteLine("Okay now enter the Height (in pixels):");
-      float height = float.Parse(Console.ReadLine());
+      Console.Write("Enter the width (in pixels):");
+      float width  = float.Parse(Console.ReadLine() ?? "400");
+      Console.Write("Enter the height (in pixels):");
+      float height = float.Parse(Console.ReadLine() ?? "500");
+      Console.Write("Enter the resolution (PPI):");
+      float resolution = float.Parse(Console.ReadLine() ?? "300");
       
-      Console.WriteLine($"Your Printed image will be {Math.Round(width / resolution, 2)}\" wide {Math.Round(height / resolution, 2)}\" high.");
+      Console.WriteLine($"At 300 PPI, the image is {Math.Round(width / resolution, 3)}'' wide by {Math.Round(height / resolution, 3)}'' high.");
     }*/
   }
 }

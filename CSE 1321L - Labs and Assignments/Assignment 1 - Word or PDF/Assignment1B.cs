@@ -1,4 +1,4 @@
-namespace HelloWorld
+namespace AssignmentOne
 {
   class FinalGrades
   {
@@ -10,14 +10,13 @@ namespace HelloWorld
         float finalExamAverage = 100f;
         Func<float, float, float> MultiplyPercentages = (Input, Average) => ((Input/100) * (Average/100))*100;
 
-        Console.WriteLine("Hello and welcome to Grade Master 2000\u00A9");
-        Console.WriteLine("Enter your average grade for labs:");
+        Console.Write("Enter your average grade for labs:");
         float labsInput = float.Parse(Console.ReadLine());
-        Console.WriteLine("Enter your average grade for assignments:");
+        Console.Write("Enter your average grade for assignments:");
         float assignmentsInput = float.Parse(Console.ReadLine());
-        Console.WriteLine("Enter your average grade for the midterm exam:");
+        Console.Write("Enter your average grade for the midterm exam:");
         float midtermInput = float.Parse(Console.ReadLine());
-        Console.WriteLine("Enter your average grade for the final exam:");
+        Console.Write("Enter your average grade for the final exam:");
         float finalExamInput = float.Parse(Console.ReadLine());
 
         float labsOutput = MultiplyPercentages(labsInput, labsAverage);
@@ -25,11 +24,12 @@ namespace HelloWorld
         float midtermsOutput = MultiplyPercentages(midtermInput, midtermAverage);
         float finalExamOutput = MultiplyPercentages(finalExamInput, finalExamAverage);
 
-        Console.WriteLine($"\nYour weighted average scores are:\n");
-        Console.WriteLine($"labs: {labsOutput}%");
-        Console.WriteLine($"assignments: {assignmentsOutput}%");
-        Console.WriteLine($"midterms: {midtermsOutput}%");
-        Console.WriteLine($"final exam: {finalExamOutput}%");
+
+        Console.WriteLine($"\nYour weighted lab average is: {labsOutput}%");
+        Console.WriteLine($"Your weighted assignment average is: {assignmentsOutput}%");
+        Console.WriteLine($"Your weighted midterm exam average is: {midtermsOutput}%");
+        Console.WriteLine($"Your weighted final exam average is: {finalExamOutput}%");
+        Console.WriteLine("Adding numbers...");
         Console.WriteLine($"Your final grade in CSE 1321L is {(labsOutput+assignmentsOutput+midtermsOutput+finalExamOutput)/4}%");
     }*/
   }
