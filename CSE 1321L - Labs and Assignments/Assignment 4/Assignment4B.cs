@@ -1,4 +1,4 @@
-﻿class Program
+﻿class Assignment4BModule
 {
     public float InputNumber()
     {
@@ -47,17 +47,17 @@
         }
     }
 }
-class Assignment4B
+/*class Assignment4B
 {
     static public void Main(String[] args)
     {
         Console.WriteLine("Welcome!");
-        Program P = new Program();
+        Assignment4BModule A = new Assignment4BModule();
         int ErrorCode = -1;
         while (ErrorCode < 0){
-        float number = P.InputNumber();
-        int choice = P.Choice(number);
-        ErrorCode = P.DoLogic(choice,number);
+        float number = A.InputNumber();
+        int choice = A.Choice(number);
+        ErrorCode = A.DoLogic(choice,number);
         }
     }
-}
+}*/
