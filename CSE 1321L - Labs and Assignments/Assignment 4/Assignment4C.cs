@@ -18,10 +18,6 @@ class Assignment4C
             System.Threading.Thread.Sleep(500);
         }
         Console.WriteLine($"{lower}Loading...{lower}");  
-        Console.WriteLine("Please enter your sentence: ");
-        Console.WriteLine(inputLine);
-        Console.WriteLine("How many letters do you want to backspace?");
-        Console.WriteLine(amountOfDeletes);
-        Console.WriteLine($"line"); //added quotation marks to clearly mark the end of the string when it ends on a space.
+        Console.WriteLine($"{line}"); //added quotation marks to clearly mark the end of the string when it ends on a space.
     }
 }
